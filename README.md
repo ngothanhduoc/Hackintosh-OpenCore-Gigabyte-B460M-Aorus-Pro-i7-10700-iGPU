@@ -37,4 +37,5 @@ Monitor Dell P2418D 23.8Inch 2K QHD IPS
 
 # Note For You
 1. The file config.plist. Please change MLB, SystemSerialNumber, SystemUUID
+- https://github.com/corpnewt/GenSMBIOS
 ![2](/images/2.png)
