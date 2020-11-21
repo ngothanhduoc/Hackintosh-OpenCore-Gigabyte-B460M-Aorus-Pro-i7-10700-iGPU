@@ -10,8 +10,7 @@ SSD Seagate Firecuda 510 1TB PCIe NVMe ZP1000GM30011
 VGA Intel UHD Graphics 630 
 Monitor Dell P2418D 23.8Inch 2K QHD IPS
 ```
-![9](/images/9.png)
-![13](/images/13.png)
+![1](/images/1.png)
 # OpenCore (Version: 0.6.3 - stable) macOS Big Sur (Version 11.0+)
 - https://dortania.github.io/OpenCore-Install-Guide/
 - https://github.com/acidanthera/OpenCorePkg/releases/tag/0.6.3
@@ -34,9 +33,6 @@ Monitor Dell P2418D 23.8Inch 2K QHD IPS
 - Etc
 # Not Work??
 - Etc
-# Result
-![1](/images/1.png)
-
 
 # Note For You
 1. The file config.plist. Please change MLB, SystemSerialNumber, SystemUUID
