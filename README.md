@@ -14,6 +14,7 @@ Monitor Dell P2418D 23.8Inch 2K QHD IPS
 # OpenCore (Version: 0.6.3 - stable) macOS Big Sur (Version 11.0+)
 - https://dortania.github.io/OpenCore-Install-Guide/
 - https://github.com/acidanthera/OpenCorePkg/releases/tag/0.6.3
+- https://nhat.dev/hackintosh/huong-dan-setup-bios-hacintosh-chi-tiet-cho-mot-so-loai-mainboard-pc.html
 # Kexts include
 - AppleALC (1.5.4)
 - IntelMausi (1.0.4)
